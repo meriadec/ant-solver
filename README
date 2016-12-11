@@ -1,0 +1,7 @@
+install
+
+    yarn
+
+run test cases
+
+    node index.js
